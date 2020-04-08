@@ -1,2 +1,0 @@
-# Function
-Created with CodeSandbox
